@@ -7,4 +7,4 @@ const initialState = {
     can: () => {}
 }
 
-export const MachineContext = React.createContext(initialState);
+export const DessertContext = React.createContext(initialState);
